@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T22:02:12.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="e2MXtBa03l4qHYlpV0L_" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-09T22:18:06.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="uxZe6P1JQoNMVUJBFx4l" version="20.2.8" type="github" pages="2">
   <diagram id="d_m1DIem46ECCCq22TNs" name="WellServ understanding">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,22 +56,22 @@
           <mxGeometry x="176.25" y="372" width="137.5" height="98" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-21" value="By default every user is guest with all permissions turned off" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="33" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="33" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-22" value="In future Access / Group management can be moved to Azure AD group&amp;nbsp;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="33" width="170" height="70" as="geometry" />
+          <mxGeometry x="1369" y="33" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-23" value="Currently only orders go through medication&lt;br&gt;Future state - call category and reason types&lt;br&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="900" y="215" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="215" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-24" value="Currently not integrated with telephony system" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="215" width="170" height="70" as="geometry" />
+          <mxGeometry x="1369" y="215" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-25" value="Intention is to help with white label WellView&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="390" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="390" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-26" value="Call reason changes in Wellserv (without deployment)" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="390" width="170" height="70" as="geometry" />
+          <mxGeometry x="1369" y="390" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oOhkZkyXwoZzHO3kJM4b-2" target="oOhkZkyXwoZzHO3kJM4b-13">
           <mxGeometry relative="1" as="geometry">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-30" value="Very complex and confusing ACLs, and will not scale to onboard thousands of users." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="111" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="111" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-31" value="&lt;h1&gt;AI-2: ePost ID dependency&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Talk to epost team and ask if it&#39;s okay to use AD account for audit purposes.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;For all&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ask DEV team for an estimation on changes needed in the code and effort needed.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="698" width="370" height="117" as="geometry" />
