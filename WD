@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T16:21:12.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2PyEjNWSKG2DTBiuBKbz" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T21:28:35.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TAUTVa5z62C0pqfcUQQ_" version="20.2.8" type="github" pages="2">
   <diagram id="d_m1DIem46ECCCq22TNs" name="WellServ understanding">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,44 @@
         </mxCell>
         <mxCell id="oOhkZkyXwoZzHO3kJM4b-40" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="716" y="281" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oOhkZkyXwoZzHO3kJM4b-42" value="How Davita onboard / off board individual nurses&lt;br&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="95" y="490" width="300" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jVbJM4RXYPm-AAm5va66" name="Aaron-idea">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sfgMbNhT07gyc4fys8lH-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="209" y="400" width="181" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-3" value="Clinic 1&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="sfgMbNhT07gyc4fys8lH-11">
+          <mxGeometry x="61" y="40" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-4" value="Clinic 2&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="sfgMbNhT07gyc4fys8lH-11">
+          <mxGeometry x="61" y="160" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-5" value="Clinic 3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="sfgMbNhT07gyc4fys8lH-11">
+          <mxGeometry x="61" y="280" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-6" value="Clinic N" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="sfgMbNhT07gyc4fys8lH-11">
+          <mxGeometry x="61" y="438" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-8" value="Davita" style="swimlane;fontSize=12;" vertex="1" parent="sfgMbNhT07gyc4fys8lH-11">
+          <mxGeometry width="181" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgMbNhT07gyc4fys8lH-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="sfgMbNhT07gyc4fys8lH-11" source="sfgMbNhT07gyc4fys8lH-6" target="sfgMbNhT07gyc4fys8lH-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="260" as="sourcePoint" />
+            <mxPoint x="541" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Kyq-ubQpqxhXVDqktmh-1" value="WellServ CRM&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="50" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
