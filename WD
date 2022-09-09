@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T14:10:40.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G5FV5xEfz-T7nzlAAjWi" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T16:21:12.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2PyEjNWSKG2DTBiuBKbz" version="20.2.8" type="github">
   <diagram id="d_m1DIem46ECCCq22TNs" name="WellServ understanding">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
             <mxPoint x="730" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOhkZkyXwoZzHO3kJM4b-38" value="AWS Elastic" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="oOhkZkyXwoZzHO3kJM4b-38" value="Member Index&lt;br&gt;(AWS Elastic)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="716" y="191.5" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oOhkZkyXwoZzHO3kJM4b-40" value="&lt;br&gt;Domain API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="oOhkZkyXwoZzHO3kJM4b-40" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="716" y="281" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
